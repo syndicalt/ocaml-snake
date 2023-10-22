@@ -1,0 +1,4 @@
+(executable
+ (public_name snake)
+ (name main)
+ (libraries snake graphics))

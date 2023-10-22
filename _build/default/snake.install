@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/snake/META"
+  "_build/install/default/lib/snake/dune-package"
+  "_build/install/default/lib/snake/opam"
+]
+bin: [
+  "_build/install/default/bin/snake"
+]
